@@ -2,24 +2,24 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "Who is the founder of facebook?",
+    answer: "Mark Zuckerberg",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Bill Gates",
+      "Justin Bieber",
+      "Mark Zuckerberg",
+      "John Key"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Which includes the javascript library?",
+    answer: "Angular",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Angular",
+      "Laravel",
+      "Bootstrap",
+      "Twitter"
     ]
   },
     {
@@ -35,24 +35,24 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "How many months in a year?",
+    answer: "12",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "10",
+      "11",
+      "12",
+      "13"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "1 + 3 + 4 + 98 = ?",
+    answer: "105",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "99",
+      "105",
+      "110",
+      "i dont know"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
